@@ -8,3 +8,5 @@ A Laravel 11-based service for managing companies, users with roles, invitations
 5. `php artisan migrate`
 6. `php artisan db:seed` (creates SuperAdmin)
 7. `php artisan serve`
+
+Used Chatgpt for Csv/Excel file generate and download
