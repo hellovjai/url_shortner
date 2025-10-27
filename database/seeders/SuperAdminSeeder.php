@@ -24,11 +24,11 @@ class SuperAdminSeeder extends Seeder
             'driver' => 'smtp',
             'host' => 'smtp.gmail.com',
             'port' => '587',
-            'from_address' => 'hellovjai@gmail.com',
-            'from_name' => 'Vijay Kumar',
+            'from_address' => 'address',
+            'from_name' => 'Your name',
             'encryption' => 'tls',
-            'username' => 'hellovjai@gmail.com',
-            'password' => 'mxcobfhahwyqixqr',
+            'username' => 'Your Username',
+            'password' => '###########',
         ]);
     }
 }
